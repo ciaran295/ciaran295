@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ciaran
 
-<!--
-**ciaran295/ciaran295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*from* Ciarán (Irish) little dark-haired one 
 
-Here are some ideas to get you started:
+🔐 Cloud security and network engineer, Xero (2017–2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open to roles in:** Cloud Security, Networking, Infrastructure and DevOps
+
+- 🎯 **Focus**: multi-cloud network architecture, DevSecOps
+- 🌱 **Exploring**: container and supply chain security automation (SBOM, SARIF)
+- 🔭 I’m currently working on **can you make the AWS Security Agent at home?**
+- 🔧 **Building** pull-only homelab kubernetes, n8n, argocd
+- 💬 Ask me about multi-cloud architecture
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ciaran-d-31218014a/)
+- ⌨ Vim or Emacs: Vim
